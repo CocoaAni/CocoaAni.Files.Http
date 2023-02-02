@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0</TargetFramework>
+	  <ImplicitUsings>enable</ImplicitUsings>
+	  <Nullable>enable</Nullable>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Title>CocoaAni.Files.Http</Title>
+	  <Version>0.0.1</Version>
+	  <Authors>CocoaAni</Authors>
+	  <Company>CocoaAni</Company>
+	  <Description>CocoaAni.Files.Http</Description>
+	  <Copyright>CocoaAni</Copyright>
+	  <PackageIcon>CocoaAni128x128.png</PackageIcon>
+	  <AssemblyVersion>0.0.1</AssemblyVersion>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+	  <IncludeSymbols>True</IncludeSymbols>
+	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+  </PropertyGroup>
+
+</Project>
